@@ -1,0 +1,502 @@
+[
+  {
+    "url": "https://www.css.ch",
+    "hash": "261fb6b8ecc406634ec9ad06d808b253da41a0261b203accd7eb0b8ac4699bc3",
+    "crawled_at": "2026-05-01T10:33:05Z"
+  },
+  {
+    "url": "https://my.css.ch?lang=de&tid=91",
+    "hash": "1f2d1eb4ac09c2a3f1117d18e582435c436c6ff68d44123f22422067835df081",
+    "crawled_at": "2026-05-01T10:33:07Z"
+  },
+  {
+    "url": "https://smetrics.css.ch",
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "crawled_at": "2026-05-01T10:33:08Z"
+  },
+  {
+    "url": "https://www.css.ch/de/leistungserbringer.html",
+    "hash": "e0180a9be1ab4c25c20c4fac17410029fed268e56740d4dad68f29df76fbf88f",
+    "crawled_at": "2026-05-01T10:33:08Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden.html",
+    "hash": "261fb6b8ecc406634ec9ad06d808b253da41a0261b203accd7eb0b8ac4699bc3",
+    "crawled_at": "2026-05-01T10:33:10Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit.html",
+    "hash": "d816247bdc25e546e0d87cc9c3af10b528b006ab965bf6690447ad4c0643d9c5",
+    "crawled_at": "2026-05-01T10:33:12Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/beratung.html",
+    "hash": "2345ae910358bc4974c4f6fc7ae149b83265f13708af4a3e550e95b93851eb96",
+    "crawled_at": "2026-05-01T10:33:15Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/beratung/medizinischer-rat-24h.html",
+    "hash": "6d7d00ef9878bffa59ab45cb349c615a1b72b42a0068440a3b30781dee20353e",
+    "crawled_at": "2026-05-01T10:33:16Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/bewegung.html",
+    "hash": "29edc31212bb7953bc80044509a2f821df253d802920029db420dd8bffb3d189",
+    "crawled_at": "2026-05-01T10:33:18Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/ernaehrung.html",
+    "hash": "0eeaaec2eb6d23e03a9ab449228e19eb2303021c7d56659c9c758a40bb93778b",
+    "crawled_at": "2026-05-01T10:33:21Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/ernaehrung/ernaehrungswissen/antientzuendliche-ernaehrung.html",
+    "hash": "1dcdd313d6aa37c10cdf64c80a96b98e9dff92864b8e4d9b0c0db5e6915b93cb",
+    "crawled_at": "2026-05-01T10:33:24Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/ernaehrung/ernaehrungswissen/phytobiotika.html",
+    "hash": "1fb9e61014748d56cef409b230ebdb99893f2e761e5d9dcd7c326c5184b3ee01",
+    "crawled_at": "2026-05-01T10:33:26Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/familie.html",
+    "hash": "104df61523ca999e9c1c7511c9273b8d344e25f24a9503d9e4ce86c3d758fd90",
+    "crawled_at": "2026-05-01T10:33:29Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/familie/schwangerschaft/fehlgeburt.html",
+    "hash": "7b22e3dabcc34804b7d04ec9d0f5c26c308a22a20de287ebfe139f6a9330fa1b",
+    "crawled_at": "2026-05-01T10:33:31Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/gesundheit-foerdern.html",
+    "hash": "442f651067c7b6e43947ffff9c5bdfc9dbb07512d29e34cc691bdf568b6e3440",
+    "crawled_at": "2026-05-01T10:33:34Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/gesundheit-foerdern/active365.html",
+    "hash": "d2707cd49a410435391492028a03245767aec0dd6739571533699dce0d70e497",
+    "crawled_at": "2026-05-01T10:33:36Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/koerper.html",
+    "hash": "5ee8a0a97f9304da369daf5e797ba0a1371aaeaf23411cbd95eb4b21b62e3e98",
+    "crawled_at": "2026-05-01T10:33:38Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/koerper/herz-kreislauf/bluthochdruck-onlinetraining.html",
+    "hash": "e51f129760db48bcb6a9fa0cad727b99765715bd5bee2026b05c3afa3f1fc2fa",
+    "crawled_at": "2026-05-01T10:33:41Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/koerper/wunderwerk-koerper/gesundes-altern.html",
+    "hash": "df33d88b3bb8821cfe9dd865b498e64de74e1f2b00a5925624675ee3f37c522f",
+    "crawled_at": "2026-05-01T10:33:44Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/psyche.html",
+    "hash": "7b1767f4f49562d16121c81413d791e8679333779c34ff09de5b4da992de5a0c",
+    "crawled_at": "2026-05-01T10:33:48Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/psyche/depression/gruppentherapie-vorteile.html",
+    "hash": "d2f9add2ab7a6e88da028b27bd6121a4d24912ba9ff4fb5f8870e0e448e76ff7",
+    "crawled_at": "2026-05-01T10:33:49Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/meine-gesundheit/psyche/entspannung/unterdrueckte-emotionen.html",
+    "hash": "30d3c45d2f8fcc7469fec0616133dcba2a3cdc5c718158249496e625ddad2731",
+    "crawled_at": "2026-05-01T10:33:53Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert.html",
+    "hash": "f0ac29a2db419e3aeeb6fa58d5968408d65b85f1878a72ce4817186b58e839cb",
+    "crawled_at": "2026-05-01T10:33:55Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/gut-zu-wissen.html",
+    "hash": "cbaac75c6ecdbfea77eae77d595c9213c0f5ee5e3af4557e3544ce8a33f1d4e5",
+    "crawled_at": "2026-05-01T10:33:58Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/gut-zu-wissen/phishing-mails.html",
+    "hash": "24b3b74234421d8d6e712ed2ea56247be6faebf0c1a585b1f84e0b884739bf1b",
+    "crawled_at": "2026-05-01T10:34:03Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/gut-zu-wissen/rechnung-zahlung.html",
+    "hash": "2cbe4bd62564b3e6b22f6f20d29adb528ca70cfe8d0258f750693453a681df38",
+    "crawled_at": "2026-05-01T10:34:06Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/gut-zu-wissen/rechnung-zahlung/rechnung-einreichen.html",
+    "hash": "bc3373e0356ee60302b064cca03098e41ad92418e585cc2c7aab6dacd9767e18",
+    "crawled_at": "2026-05-01T10:34:08Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/gut-zu-wissen/versicherungstipps.html",
+    "hash": "bd320540a478ea62f2b2651a84a08c51050e2876685c2ab086562e906f3c878b",
+    "crawled_at": "2026-05-01T10:34:13Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/gut-zu-wissen/vertrag-abschluss.html",
+    "hash": "2dd85d63ae46eedbbcd643eac889f6dab64d665ecf1cfe0cab87165e141e903e",
+    "crawled_at": "2026-05-01T10:34:16Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse.html",
+    "hash": "187f3fa487affa9f3fcb09f56e38abe76e8023e5c232d63c523780ab45a9947c",
+    "crawled_at": "2026-05-01T10:34:15Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/grundversicherung.html",
+    "hash": "b9afbc76508f3cb3c0203b8e93be92fbeb7ca355e2e82c557ee1eff70653f899",
+    "crawled_at": "2026-05-01T10:34:18Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/grundversicherung/hausarztmodell.html",
+    "hash": "f6d80d78d2445534bbaa136ea7877b22e6421ced82afd67d678f72331bd4ca3f",
+    "crawled_at": "2026-05-01T10:34:21Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/grundversicherung/hmo-modell.html",
+    "hash": "6f25c28cb63a45f8f79032919bd29b6a1b1384244da2b5e5213f5a932bb1e775",
+    "crawled_at": "2026-05-01T10:34:25Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/grundversicherung/multimed.html",
+    "hash": "b0ba9b739e8dcd64b4d1c6b10f85d5fd16a320e18639c95a254ff9f0e92b6354",
+    "crawled_at": "2026-05-01T10:34:29Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/grundversicherung/telmed.html",
+    "hash": "22e96ae9f89d148af2f337290ad193d588bf14e879477d58a525259f8dc2fbcf",
+    "crawled_at": "2026-05-01T10:34:32Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/sparen-optimieren.html",
+    "hash": "099aebab86c3428198af73293328b3d1b687e6046cb8a301bd6f90b766c00cbf",
+    "crawled_at": "2026-05-01T10:34:34Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/sparen-optimieren/coin.html",
+    "hash": "e591aeb939e8415c538bd751cd0bad06f4db654d434bc557f42715c0f7982843",
+    "crawled_at": "2026-05-01T10:34:37Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/sparen-optimieren/enjoy365.html",
+    "hash": "8f94ccb23f5e38803cecf83d5cf0af5dd3ebf7da43c85080899befaece6db9ca",
+    "crawled_at": "2026-05-01T10:34:39Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/sparen-optimieren/gesundheitsfoerderung.html",
+    "hash": "2f17c06603bede33b969223064120649ba9e97a911cd99db22bd3f0b2fee183e",
+    "crawled_at": "2026-05-01T10:34:42Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/sparen-optimieren/rahmenvertrag-krankenzusatzversicherung.html",
+    "hash": "cdc3f96bed4e2117b03f139380f5c7f5e613683ad14eecd7bf38f9a11c6a4b2c",
+    "crawled_at": "2026-05-01T10:34:44Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/zusatzversicherungen.html",
+    "hash": "1b2bf446d9519825b295cfecb82d077041bed541c211333604fddc4af7d0aa3b",
+    "crawled_at": "2026-05-01T10:34:47Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/zusatzversicherungen/alternativversicherung.html",
+    "hash": "a3cb89f719abc00a776f733ec7f775b1ab1323c22aa3ad3292bd719ef325244e",
+    "crawled_at": "2026-05-01T10:34:47Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/zusatzversicherungen/ambulantversicherung.html",
+    "hash": "7b6e2ba7d66982df950009fe1f54a97ddeeaf7101bf37c98e30e01c5c091d728",
+    "crawled_at": "2026-05-01T10:34:49Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/zusatzversicherungen/spitalversicherung.html",
+    "hash": "3373745d378f5436cca8c04eb47f1dc3a2083241dc70b21ab12a6fd4fc950050",
+    "crawled_at": "2026-05-01T10:34:52Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/krankenkasse/zusatzversicherungen/zahnversicherung.html",
+    "hash": "b3615d94d60bb147656630ab9a5fba1aa5589c14cf6d5e7d4996548e7209b309",
+    "crawled_at": "2026-05-01T10:34:55Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen.html",
+    "hash": "77a2674855b995798c3a1a680c6c0cb66ee01f65c5f210a4f7618223385f1e23",
+    "crawled_at": "2026-05-01T10:34:58Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/auslandschweizer-ihp.html",
+    "hash": "f040cf243a862f554b8b62e3e610465a804e52445ef9bdc799bea3835c4f91bb",
+    "crawled_at": "2026-05-01T10:35:01Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/gebaeudeversicherung.html",
+    "hash": "cfe1cb60e819aa71bc19b86ce1d3264dc4d5fea54a1b7ba56a917d94ad65e69e",
+    "crawled_at": "2026-05-01T10:35:04Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/haftpflichtversicherung.html",
+    "hash": "60aa700e3ee10b8caea2884f8a0bac8640dc377960807a1655104208617709b1",
+    "crawled_at": "2026-05-01T10:35:06Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/hausratversicherung.html",
+    "hash": "2b8de76dd5c79b8a04b6141a4bd8e955225068dc713e5227866debf9b7f77533",
+    "crawled_at": "2026-05-01T10:35:09Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/rechtsschutzversicherung.html",
+    "hash": "c6ee448d69d1fd733f0ddf94c8e9b192eacab274e9344127b5e4e9d583142d56",
+    "crawled_at": "2026-05-01T10:35:12Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/reiseversicherung.html",
+    "hash": "d189e3f7cae71d095bded6fbd3600b552ddf3bc195716421dfde0c8e44e527c5",
+    "crawled_at": "2026-05-01T10:35:14Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/richtig-versichert/weitere-versicherungen/uti-kti.html",
+    "hash": "9eec4433586bdff049fc9428f54c0b91c6005d7bf6e5fe4e4fe1c6c280967108",
+    "crawled_at": "2026-05-01T10:35:17Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt.html",
+    "hash": "3adec04e16cd0fd6a22836df4bde6de93d5448a235ea2625ab2d7e1221734cc4",
+    "crawled_at": "2026-05-01T10:35:16Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/agenturen.html",
+    "hash": "9c35070b4c498ac8ad85921eef35a2c2b4ed7dcaed6d9b1b0c1006eadae14db2",
+    "crawled_at": "2026-05-01T10:35:18Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten.html",
+    "hash": "d46afacec105fd64a74f5c81e59ddf4c94ed5a392eed9d7d225bd1b4975bc19e",
+    "crawled_at": "2026-05-01T10:35:20Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/allgemeine-frage.html",
+    "hash": "d46be930f32b1151f0250e5bfe67701bde18f54cdc174924ffb4a82d74071012",
+    "crawled_at": "2026-05-01T10:35:22Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/beraten.html",
+    "hash": "548d153ef6a097d8f724336a04d12e56565259b367e6911a400235c3e1e3bc16",
+    "crawled_at": "2026-05-01T10:35:24Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/beraten/agentur-suchen.html",
+    "hash": "9c35070b4c498ac8ad85921eef35a2c2b4ed7dcaed6d9b1b0c1006eadae14db2",
+    "crawled_at": "2026-05-01T10:35:26Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/frage-leistungen.html",
+    "hash": "fb9836cae5a1fa4691981073b6f750689f70a1e813f0e0c0c1072ac0d38e4a9a",
+    "crawled_at": "2026-05-01T10:35:29Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/frage-rechnung.html",
+    "hash": "5643d0dda41dac9f1c23682c8d9bdc4a1bf9b6e3d5dae47feb6d27cf5521b46e",
+    "crawled_at": "2026-05-01T10:35:32Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/leistungscheck.html",
+    "hash": "1d4613ef30fbfbe0153dd5949c82bdcff65d61e5cdb96353483aefb322b2c5ab",
+    "crawled_at": "2026-05-01T10:35:34Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/leistungscheck/ausland.html",
+    "hash": "d776737af356da7c9a52f4575a41ba38b481581d2522b4930e17a29aa43554c4",
+    "crawled_at": "2026-05-01T10:35:36Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/leistungscheck/psychologische-beratung.html",
+    "hash": "a385f98179840ff8876ced51d69349d9d42f3e3efc3afb924e928e86dbc48768",
+    "crawled_at": "2026-05-01T10:35:38Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/medizinische-beratung.html",
+    "hash": "7551e5984c6f8a9238801cbd9f6713df95fe587d4a0b5660143a6e154dfe4cba",
+    "crawled_at": "2026-05-01T10:35:40Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/hilfe-erhalten/medizinische-beratung/arztsuche.html",
+    "hash": "f20f63f3b99f4a59dbba8a586234d4466a0e2ae8ec6be17b38a081153dc95d30",
+    "crawled_at": "2026-05-01T10:35:43Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/kontakt.html",
+    "hash": "e25670432e3e185fe7793bd157c295afea71c971be42ac06605ca8bbba492066",
+    "crawled_at": "2026-05-01T10:35:46Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/mycss-kundenportal.html",
+    "hash": "39e6d8adab815e9887c0c0e59c27e2300f04f014ff44760be8a9cf91ba736f71",
+    "crawled_at": "2026-05-01T10:35:45Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/mycss-kundenportal/mycss-app.html",
+    "hash": "4aaa2a8a8ab0a5e7a39f4df2da47bffd04068821ca750d87d66f9c52aea6dbf4",
+    "crawled_at": "2026-05-01T10:35:47Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/newsletter-abonnieren.html",
+    "hash": "138d438526dcff9fe0827193cc1c33434b021ee5cbfc76581c132a71ce3b74e8",
+    "crawled_at": "2026-05-01T10:35:49Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen.html",
+    "hash": "7b83bb2459c866f42401f3609d3c6975188e2e7265b0399ca89c8c2247bb3803",
+    "crawled_at": "2026-05-01T10:35:51Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/bestellen.html",
+    "hash": "3a6249cfc0802563223f08cf653fefab5028cf84a602d2e945df8ab81b6f7fab",
+    "crawled_at": "2026-05-01T10:35:53Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/melden.html",
+    "hash": "7dbe97bb0c6dfd1b8910d11a75667478c07c4d6e5db339ca0c6de554ddefa770",
+    "crawled_at": "2026-05-01T10:35:56Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/melden/adressaenderung.html",
+    "hash": "2dd939a6736869136c33e5b4c1261cc8846fd68d486896a6dfb2c0a0dd5c723b",
+    "crawled_at": "2026-05-01T10:35:58Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/melden/rechnung-einreichen.html",
+    "hash": "bc3373e0356ee60302b064cca03098e41ad92418e585cc2c7aab6dacd9767e18",
+    "crawled_at": "2026-05-01T10:36:00Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/melden/unfall.html",
+    "hash": "55ce5f578c5ed21a5d8089393af47523e8ddda12021006c667ab746b28ca4929",
+    "crawled_at": "2026-05-01T10:36:02Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/versicherung-anpassen.html",
+    "hash": "daf6374d7632e4919b56150302c97734c4ac64296b6f686d9940859d711acec3",
+    "crawled_at": "2026-05-01T10:36:04Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/versicherung-anpassen/arzt-wechseln.html",
+    "hash": "0cee2a2d49de9b78b50963b8da471a8d564521fa2a0bf692e5fc48401909dcc0",
+    "crawled_at": "2026-05-01T10:36:06Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/versicherung-anpassen/franchise-aendern.html",
+    "hash": "decb41b22630518f10c242eb651ef952619dce607cbb7cf9684986b031cbb039",
+    "crawled_at": "2026-05-01T10:36:08Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/selber-erledigen/versicherung-anpassen/versicherungsmodell-wechseln.html",
+    "hash": "a793611cca4310cac3803a663c8b64a3df32620c7251e4d24a591cb6fbde6a69",
+    "crawled_at": "2026-05-01T10:36:10Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/vorteile.html",
+    "hash": "df7baca705af31c1e75ce142c821f63d528278fc0d58aa9055b850c9cf7203a7",
+    "crawled_at": "2026-05-01T10:36:12Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/vorteile/mitglied-css-verein.html",
+    "hash": "4cad35047b27c803d0f5f82649957c687c06720eb4e1dbae3fb7754c5327a0e4",
+    "crawled_at": "2026-05-01T10:36:15Z"
+  },
+  {
+    "url": "https://www.css.ch/de/privatkunden/schnell-erledigt/vorteile/weiterempfehlung.html",
+    "hash": "c15f162a9f1180588ef3efccd74748ec7d77cbeba7421f910f0fffe1e09986ff",
+    "crawled_at": "2026-05-01T10:36:16Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css.html",
+    "hash": "c14a2a0fd51a599c68f27be6b886bb1b5a00d387da0365efaa971e1ff3b731e5",
+    "crawled_at": "2026-05-01T10:36:16Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css/arbeiten.html",
+    "hash": "389be56b47d33af9699bbb3b2668a757244c6a6cd5cb6278692b5fa96267ca0d",
+    "crawled_at": "2026-05-01T10:36:19Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css/story/medien-publikationen/medien.html",
+    "hash": "1b86b6964f7c285d29955c49348736ecaf941848a590550a9b6a81bbe62d41aa",
+    "crawled_at": "2026-05-01T10:36:21Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css/story/unternehmen/css-gruppe.html",
+    "hash": "4051f0a50319ff91821c4fd62d4d82b88ab2a28c4cbe8d13e7542d2d13032370",
+    "crawled_at": "2026-05-01T10:36:24Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css/story/unternehmen/css-gruppe/datenschutz.html",
+    "hash": "c2b226cad20b5821f5cfe29bbc7c8878560e86dfb0af1efa460fe247955d5175",
+    "crawled_at": "2026-05-01T10:36:26Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css/story/unternehmen/css-gruppe/privacy-policy.html",
+    "hash": "178114a4964d189d26945cf54638783ec73c526525e4bf80803b2e2ce7706220",
+    "crawled_at": "2026-05-01T10:36:28Z"
+  },
+  {
+    "url": "https://www.css.ch/de/ueber-css/story/unternehmen/css-gruppe/rechtliche-hinweise.html",
+    "hash": "39eac0a289cf758cc2487b32e79623d35bcfe22df804004b1628e1e051ac4a93",
+    "crawled_at": "2026-05-01T10:36:30Z"
+  },
+  {
+    "url": "https://www.css.ch/en/private-customers.html",
+    "hash": "0f8e8aaea359019ca50fe647c6ab5df39f044cb4aa31c0f270f72b414a8d1410",
+    "crawled_at": "2026-05-01T10:36:32Z"
+  },
+  {
+    "url": "https://www.css.ch/etc.clientlibs/css/core/clientlibs/publish/main/resources/images/svg-sprite.svg",
+    "hash": "2bbabdf3c5fe5bce3b9d9472ab3604763f10b8294ee401ebc0e5077ae7d73845",
+    "crawled_at": "2026-05-01T10:36:35Z"
+  },
+  {
+    "url": "https://www.css.ch/fr/clients-prives.html",
+    "hash": "657ae45bb79b261cb1b48136c8f2d7f293804be6c99f4bc57746af7beb0ebd17",
+    "crawled_at": "2026-05-01T10:36:35Z"
+  },
+  {
+    "url": "https://www.css.ch/it/clienti-privati.html",
+    "hash": "09af41b989ba62a9e7f31193ce03cee629313205b9c85bc26e501fdffd03a02a",
+    "crawled_at": "2026-05-01T10:36:38Z"
+  },
+  {
+    "url": "https://www.css.ch/manifest.webmanifest",
+    "hash": "1f98a023590332e996cd9f9df73940771c08746a41bfb22cb5dd89eaa2fd9e32",
+    "crawled_at": "2026-05-01T10:36:40Z"
+  },
+  {
+    "url": "https://my.css.ch?lang=de&tid=91/",
+    "hash": "1f2d1eb4ac09c2a3f1117d18e582435c436c6ff68d44123f22422067835df081",
+    "crawled_at": "2026-05-01T10:36:41Z"
+  },
+  {
+    "url": "https://www.css.ch/de/leistungserbringer/austausch.html",
+    "hash": "d1eb01cbb8327c02c0a3c793e319b3986bbbfe29d9903f3db32473c065901d2c",
+    "crawled_at": "2026-05-01T10:36:41Z"
+  },
+  {
+    "url": "https://www.css.ch/de/leistungserbringer/austausch/datenaustausch.html",
+    "hash": "ab426edb398655f105c098a253807a625cf48ebb619cdb6fa7a23bb397ec6e4a",
+    "crawled_at": "2026-05-01T10:36:43Z"
+  },
+  {
+    "url": "https://www.css.ch/de/leistungserbringer/austausch/datenaustausch/anbindung.html",
+    "hash": "0e840bfa85bdfbf761e9de527f3adb1d137f3d3d353d562157fbcd1efbd52f48",
+    "crawled_at": "2026-05-01T10:36:45Z"
+  },
+  {
+    "url": "https://www.css.ch/de/leistungserbringer/austausch/datenaustausch/faq.html",
+    "hash": "b312b643b3755bf167a1f7ba0e8dfca10136fc13f2df7684f73b177f22b21d66",
+    "crawled_at": "2026-05-01T10:36:47Z"
+  }
+]
