@@ -5,7 +5,7 @@
 # vergleicht Runs (Diff) und bietet ein interaktives Menü.
 # ============================================================
 
-set -euo pipefail
+set -eo pipefail
 
 # ============================================================
 # KONFIGURATION
@@ -19,13 +19,7 @@ readonly VISITED_FILE="${OUTPUT_DIR}/visited.txt"
 readonly QUEUE_FILE="${OUTPUT_DIR}/queue.txt"
 readonly LOG_FILE="${OUTPUT_DIR}/crawl.log"
 readonly USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-readonly DEFAULT_SKIP="pdf,jpg,jpeg,png,gif,svg,css,js,ico,woff,woff2,ttf,zip,xml,json
-
-"
-
-# ============================================================
-# FARBEN
-# ============================================================
+readonly DEFAULT_SKIP="pdf,jpg,jpeg,png,gif,svg,css,js,ico,woff,woff2,ttf,zip,xml,json"
 
 readonly RED='\033[0;31m'
 readonly GREEN='\033[0;32m'
