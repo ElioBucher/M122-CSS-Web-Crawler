@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Test - Startseite</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header>
+    <h1>CSS Versicherung – Testseite</h1>
+    <nav>
+        <a href="/index.html">Home</a>
+        <a href="/about.html">Über uns</a>
+        <a href="/products.html">Produkte</a>
+        <a href="/contact.html">Kontakt</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Willkommen bei CSS</h2>
+    <p>Dies ist die Startseite der lokalen Testumgebung für den CSS Web Crawler.</p>
+    <p>Hier findest du alle wichtigen Links zu unseren Seiten.</p>
+
+    <h3>Schnellzugriff</h3>
+    <ul>
+        <li><a href="/about.html">Mehr über uns erfahren</a></li>
+        <li><a href="/products.html">Unsere Produkte ansehen</a></li>
+        <li><a href="/contact.html">Kontakt aufnehmen</a></li>
+        <li><a href="/change_page.html">Aktuelle Neuigkeiten</a></li>
+    </ul>
+
+    <!-- Loop-Test: Diese Seite verlinkt auf loop_a -->
+    <p>Weitere Infos: <a href="/loop_a.html">Partner A</a></p>
+</main>
+
+<footer>
+    <p>&copy; 2024 CSS Testseite</p>
+    <!-- Dieser Link soll ignoriert werden (skip-type) -->
+    <a href="/assets/style.css">CSS Stylesheet</a>
+    <a href="/assets/logo.png">Logo</a>
+</footer>
+</body>
+</html>

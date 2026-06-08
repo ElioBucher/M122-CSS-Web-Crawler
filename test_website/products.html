@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Test - Produkte</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header>
+    <h1>CSS Versicherung – Testseite</h1>
+    <nav>
+        <a href="/index.html">Home</a>
+        <a href="/about.html">Über uns</a>
+        <a href="/products.html">Produkte</a>
+        <a href="/contact.html">Kontakt</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Unsere Produkte</h2>
+    <p>Entdecke unser umfassendes Versicherungsangebot.</p>
+
+    <h3>Grundversicherung</h3>
+    <p>Die obligatorische Krankenpflegeversicherung (OKP) für alle.</p>
+
+    <h3>Zusatzversicherungen</h3>
+    <ul>
+        <li>Spitalzusatz</li>
+        <li>Zahnversicherung</li>
+        <li>Reiseversicherung</li>
+    </ul>
+
+    <!-- Viele Links für den Crawler -->
+    <p>Mehr erfahren:
+        <a href="/about.html">Über uns</a> |
+        <a href="/contact.html">Kontakt</a> |
+        <a href="/change_page.html">Neuigkeiten</a>
+    </p>
+
+    <!-- Externe Links – sollen ignoriert werden (andere Domain) -->
+    <p>Externe Links:
+        <a href="https://www.google.com">Google</a> |
+        <a href="https://www.bag.admin.ch">BAG</a>
+    </p>
+
+    <!-- Dateilinks – sollen durch skip_types ignoriert werden -->
+    <p>Downloads:
+        <a href="/assets/broschuere.pdf">Broschüre (PDF)</a> |
+        <a href="/assets/logo.png">Logo (PNG)</a>
+    </p>
+</main>
+
+<footer>
+    <p>&copy; 2024 CSS Testseite</p>
+</footer>
+</body>
+</html>

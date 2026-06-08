@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Test - Partner A</title>
+    <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<header>
+    <h1>CSS Versicherung – Testseite</h1>
+    <nav>
+        <a href="/index.html">Home</a>
+        <a href="/about.html">Über uns</a>
+        <a href="/products.html">Produkte</a>
+        <a href="/contact.html">Kontakt</a>
+    </nav>
+</header>
+
+<main>
+    <h2>Partner A</h2>
+    <!-- LOOP-TEST: loop_a verlinkt auf loop_b, loop_b verlinkt zurück auf loop_a -->
+    <p>Diese Seite und Partner B verlinken gegenseitig aufeinander.</p>
+    <p>Der Crawler soll dies erkennen und keinen Endlos-Loop erzeugen!</p>
+
+    <p>Weiter zu: <a href="/loop_b.html">Partner B</a></p>
+    <p><a href="/index.html">Zurück zur Startseite</a></p>
+</main>
+
+<footer>
+    <p>&copy; 2024 CSS Testseite</p>
+</footer>
+</body>
+</html>
