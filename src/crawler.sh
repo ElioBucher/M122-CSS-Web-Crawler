@@ -3,8 +3,8 @@
 set -o pipefail
 
 # --- Config ---
-readonly START_URL="https://www.css.ch"
-readonly DOMAIN="css.ch"
+readonly START_URL="http://localhost:8080" # readonly START_URL="https://www.css.ch"
+readonly DOMAIN="localhost" # readonly DOMAIN="css.ch"
 readonly OUT_DIR="./crawl_output"
 readonly INDEX_FILE="${OUT_DIR}/index.json"
 readonly VISITED_FILE="${OUT_DIR}/visited.txt"
@@ -39,7 +39,7 @@ is_valid_url() {
     local url="$1" host
     is_visited "$url" && return 1
     [[ "$url" =~ ^https?:// ]] || return 1
-    host=$(echo "$url" | sed 's|^https\?://||' | cut -d'/' -f1 | cut -d'?' -f1)
+    host=$(echo "$url" | sed 's|^https\?://||' | cut -d'/' -f1 | cut -d'?' -f1 | cut -d':' -f1) # host=$(echo "$url" | sed 's|^https\?://||' | cut -d'/' -f1 | cut -d'?' -f1)
     [[ "$host" == "$DOMAIN" || "$host" == *".$DOMAIN" ]] || return 1
     case "$url" in
         */content/css/*|*.save_rating.json|*.css-search.json) return 1 ;;
@@ -234,10 +234,10 @@ compare_crawl_files() {
     echo -e "  ${BLUE}New:${NC} $(basename "$new_index")"
     echo ""
 
-    _print_section "$GREEN" "+" "▶ NEW Pages:"     "$new_urls"
-    _print_section "$RED"   "-" "▶ REMOVED Pages:" "$deleted_urls"
+    _print_section "$GREEN" "+" "NEW Pages:"     "$new_urls"
+    _print_section "$RED"   "-" "REMOVED Pages:" "$deleted_urls"
 
-    echo -e "${BOLD}${YELLOW}▶ CHANGED Pages:${NC}"
+    echo -e "${BOLD}${YELLOW}CHANGED Pages:${NC}"
     local changed_count=0 unchanged_count=0 url
     if [[ -n "$common_urls" ]]; then
         while IFS= read -r url; do
